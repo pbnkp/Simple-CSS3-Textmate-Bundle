@@ -17,6 +17,10 @@ border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;</string>
 	<key>name</key>
 	<string>Top-Right-Rounded</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>round</string>
 	<key>uuid</key>
 	<string>3E0B2921-70A2-408A-A25A-7ADBB47AA527</string>
 </dict>
