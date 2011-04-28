@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius-topleft: ${1:10}px;
+	<string>-moz-border-radius-topleft: $1{1:10}px;
 -moz-border-radius-topright: 0px;
 -moz-border-radius-bottomright: 0px;
--moz-border-radius-bottomleft: $1px;
+-moz-border-radius-bottomleft: 0px;
 -webkit-border-top-left-radius: $1px;
 -webkit-border-top-right-radius: 0px;
 -webkit-border-bottom-right-radius: 0px;
--webkit-border-bottom-left-radius: $1px;
+-webkit-border-bottom-left-radius: 0px;
 border-top-left-radius: $1px;
 border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
-border-bottom-left-radius: $1px;</string>
+border-bottom-left-radius: 0px;</string>
 	<key>name</key>
-	<string>Left-Rounded</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>round</string>
+	<string>Top-Left-Round</string>
 	<key>uuid</key>
-	<string>A97E374E-6E9D-4D76-9901-E758AB5CCC3B</string>
+	<string>4E95C8A1-602C-4155-81AD-E86292CF37B5</string>
 </dict>
 </plist>

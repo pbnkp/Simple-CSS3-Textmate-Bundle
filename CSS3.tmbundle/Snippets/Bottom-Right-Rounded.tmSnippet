@@ -4,24 +4,20 @@
 <dict>
 	<key>content</key>
 	<string>-moz-border-radius-topleft: 0px;
--moz-border-radius-topright: ${1:10}px;
--moz-border-radius-bottomright: $1px;
+-moz-border-radius-topright: 0px;
+-moz-border-radius-bottomright: ${1:10}px;
 -moz-border-radius-bottomleft: 0px;
 -webkit-border-top-left-radius: 0px;
--webkit-border-top-right-radius: $1px;
+-webkit-border-top-right-radius: 0px;
 -webkit-border-bottom-right-radius: $1px;
 -webkit-border-bottom-left-radius: 0px;
 border-top-left-radius: 0px;
-border-top-right-radius: $1px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: $1px;
 border-bottom-left-radius: 0px;</string>
 	<key>name</key>
-	<string>Right-Rounded</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>round</string>
+	<string>Bottom-Right-Rounded</string>
 	<key>uuid</key>
-	<string>7861220D-F406-4693-9284-551853E3DA64</string>
+	<string>7BA5A147-05B3-4D2B-B7E6-3D24C12454E9</string>
 </dict>
 </plist>

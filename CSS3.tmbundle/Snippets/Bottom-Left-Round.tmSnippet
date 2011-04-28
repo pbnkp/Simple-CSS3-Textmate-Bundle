@@ -5,23 +5,19 @@
 	<key>content</key>
 	<string>-moz-border-radius-topleft: 0px;
 -moz-border-radius-topright: 0px;
--moz-border-radius-bottomright: ${1:10}px;
--moz-border-radius-bottomleft: $1px;
+-moz-border-radius-bottomright: 0px;
+-moz-border-radius-bottomleft: ${1:10}px;
 -webkit-border-top-left-radius: 0px;
 -webkit-border-top-right-radius: 0px;
--webkit-border-bottom-right-radius: $1px;
+-webkit-border-bottom-right-radius: 0px;
 -webkit-border-bottom-left-radius: $1px;
 border-top-left-radius: 0px;
 border-top-right-radius: 0px;
-border-bottom-right-radius: $1px;
+border-bottom-right-radius: 0px;
 border-bottom-left-radius: $1px;</string>
 	<key>name</key>
-	<string>Round-Bottom</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>round</string>
+	<string>Bottom-Left-Round</string>
 	<key>uuid</key>
-	<string>55CDE81E-BEB8-466A-B827-1A641D292C6C</string>
+	<string>0C0A2592-A692-47F1-B179-59B0F36EAB82</string>
 </dict>
 </plist>
