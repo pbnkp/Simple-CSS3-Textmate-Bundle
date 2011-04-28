@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-border-radius:${1:10}px;
+-webkit-border-radius:$1px;
+border-radius:$2px;</string>
+	<key>name</key>
+	<string>Rouned-Corners</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>round</string>
+	<key>uuid</key>
+	<string>93ADF477-A09C-4AFC-9131-1BC34C5ACB1F</string>
+</dict>
+</plist>
