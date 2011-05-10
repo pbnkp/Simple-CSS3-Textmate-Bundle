@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius-topleft: 0px;
--moz-border-radius-topright: 0px;
--moz-border-radius-bottomright: 0px;
--moz-border-radius-bottomleft: ${1:10}px;
--webkit-border-top-left-radius: 0px;
--webkit-border-top-right-radius: 0px;
--webkit-border-bottom-right-radius: 0px;
--webkit-border-bottom-left-radius: $1px;
+	<string>-webkit-border-top-left: 0px;
+-webkit-border-top-right: 0px;
+-webkit-border-bottom-right:0px;
+-webkit-border-bottom-left:${1:10}px;
+-moz-border-radius-topleft:0px;
+-moz-border-radius-topleft:0px;
+-moz-border-radius-bottomright:0px;
+-moz-border-radius-bottomleft:$1px;
 border-top-left-radius: 0px;
 border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;

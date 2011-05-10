@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius: ${1:10}px; 
--webkit-border-radius:$1px; 
-border-radius:$1px; </string>
+	<string>-webkit-border-radius:${1:10}px;
+-moz-border-radius:$1px;
+border-radius:$1px;</string>
 	<key>name</key>
 	<string>Rouned-Corners</string>
 	<key>scope</key>
