@@ -3,18 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-transition: ${1:all} ${2:0.3}s ${3:ease-out};   
--moz-transition: $1 $2s $3;  
--o-transition: $1 $2s $3; 
--ms-transition: $1 $2s $3;  
-transition: $1 $2s $3; </string>
+	<string>text-shadow: ${1:1}px ${2:1}px ${3:3}px #${4:888888};</string>
 	<key>name</key>
-	<string>Transitions</string>
+	<string>Text-Shadow</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tran</string>
+	<string>shad</string>
 	<key>uuid</key>
-	<string>A3D7156C-4474-429E-83A8-8CC60BEACA66</string>
+	<string>3DD93B58-9A45-4FFA-9344-B46BCA0B8D8D</string>
 </dict>
 </plist>

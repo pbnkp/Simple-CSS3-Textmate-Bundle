@@ -243,6 +243,31 @@
 		<string>438A0DF2-C714-4D2A-A27A-EF0F62F5BC0F</string>
 		<string>04234F37-7812-499B-BB9C-2FD1B92DB1B5</string>
 	</array>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>93ADF477-A09C-4AFC-9131-1BC34C5ACB1F</string>
+			<string>D8A1DE54-8416-4C34-B2D9-1B05BE764367</string>
+			<string>B60FFB02-803B-41BD-A561-786E578A3371</string>
+			<string>55CDE81E-BEB8-466A-B827-1A641D292C6C</string>
+			<string>0C0A2592-A692-47F1-B179-59B0F36EAB82</string>
+			<string>7BA5A147-05B3-4D2B-B7E6-3D24C12454E9</string>
+			<string>A97E374E-6E9D-4D76-9901-E758AB5CCC3B</string>
+			<string>7861220D-F406-4693-9284-551853E3DA64</string>
+			<string>3E0B2921-70A2-408A-A25A-7ADBB47AA527</string>
+			<string>4E95C8A1-602C-4155-81AD-E86292CF37B5</string>
+			<string>10AE7C2E-4BFA-466A-BEF9-B0798D8EBC88</string>
+			<string>800A57BE-C4C6-4991-8C46-4C91CCCBF125</string>
+			<string>4BF67391-028C-4CD0-8045-B1A2ABBEC37F</string>
+			<string>3DD93B58-9A45-4FFA-9344-B46BCA0B8D8D</string>
+			<string>63BAB87B-414B-4FB9-BE38-18844AA0280F</string>
+			<string>75057F17-0EB4-4014-B594-61535F0967CB</string>
+			<string>A3D7156C-4474-429E-83A8-8CC60BEACA66</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>CSS3</string>
 	<key>ordering</key>

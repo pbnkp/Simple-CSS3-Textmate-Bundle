@@ -7,14 +7,18 @@
 -webkit-border-top-right-radius:${2:10}px;
 -webkit-border-bottom-right-radius:${3:10}px;
 -webkit-border-bottom-left-radius:${4:10}px;
--moz-border-radius-topleft:$1;
--moz-border-radius-topright:$2;
--moz-border-radius-bottomright:$3;
--moz-border-radius-bottomleft:$4;
+-moz-border-radius-topleft:$1px;
+-moz-border-radius-topright:$2px;
+-moz-border-radius-bottomright:$3px;
+-moz-border-radius-bottomleft:$4px;
 border-top-left-radius:$1px;
 border-top-right-radius:$2px;
 border-bottom-right-radius:$3px;
 border-bottom-left-radius:$4px;
+/* useful if you don't want a bg color from leaking outside the border: */        
+-webkit-background-clip: padding-box;  
+-moz-background-clip: padding;
+background-clip: padding-box; 
 
 
 </string>

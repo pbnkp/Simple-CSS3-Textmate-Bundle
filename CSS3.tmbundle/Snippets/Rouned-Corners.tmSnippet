@@ -5,7 +5,11 @@
 	<key>content</key>
 	<string>-webkit-border-radius:${1:10}px;
 -moz-border-radius:$1px;
-border-radius:$1px;</string>
+border-radius:$1px;
+/* useful if you don't want a bg color from leaking outside the border: */        
+-webkit-background-clip: padding-box;  
+-moz-background-clip: padding;
+background-clip: padding-box; </string>
 	<key>name</key>
 	<string>Rouned-Corners</string>
 	<key>scope</key>

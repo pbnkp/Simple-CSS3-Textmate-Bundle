@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>-webkit-border-top-left-radius: ${1:10}px;
--webkit-border-top-right-radius: $1;
+-webkit-border-top-right-radius: $1px;
 -webkit-border-bottom-right-radius:0px;
 -webkit-border-bottom-left-radius:0px;
 -moz-border-radius-topleft:$1px;
@@ -14,7 +14,11 @@
 border-top-left-radius: $1px;
 border-top-right-radius: $1px;
 border-bottom-right-radius: 0px;
-border-bottom-left-radius: 0px;</string>
+border-bottom-left-radius: 0px;
+/* useful if you don't want a bg color from leaking outside the border: */        
+-webkit-background-clip: padding-box;  
+-moz-background-clip: padding;
+background-clip: padding-box; </string>
 	<key>name</key>
 	<string>Round-Top</string>
 	<key>scope</key>

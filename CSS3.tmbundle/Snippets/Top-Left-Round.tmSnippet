@@ -14,7 +14,11 @@
 border-top-left-radius: ${1:10}px;
 border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
-border-bottom-left-radius: 0px;</string>
+border-bottom-left-radius: 0px;
+/* useful if you don't want a bg color from leaking outside the border: */        
+-webkit-background-clip: padding-box;  
+-moz-background-clip: padding;
+background-clip: padding-box; </string>
 	<key>name</key>
 	<string>Top-Left-Round</string>
 	<key>scope</key>
