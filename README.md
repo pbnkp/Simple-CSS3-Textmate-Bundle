@@ -1,4 +1,5 @@
 #Simple CSS3 Textmate Bundle
+##Making CSS3 "just work"...
 
 ##About
 
@@ -77,14 +78,27 @@ The bundle only works when you are inside of a CSS file.
 *	Use CSS3 transitions with cross-browser compatibility **tran > tab > property to animate > tab > animation duration (without the 's') > tab > timing function**
 	*	*Example:* **tran > tab > color > tab > 0.3 > tab > ease-out** this would create a cross-browser CSS3 transition that transitions the color property over 0.3 seconds and uses the "ease-out" timing function
 	
+**CMD + SHIFT + P    (Prefixize)**
+
+* Prefixize *
+	*Usage: Select a single css declaration, an entire class, or your whole stylesheet then press CMD + SHIFT + P  and your css will automatically be prefixized. All the CSS3 browser prefixes like `-moz` and `-ms-` and `-webkit-`, even `-kthml` and `-o-` that all us designers need need to add to the new CSS3 properties like `border-radius` and such will automatically be added to your css file. Now you can you use only the W3C recommended syntax for CSS3 properties like `border-radius` and `linear-gradient` and `transition`. To prefixize your entire stylesheet and add cross-browser support for your css!
+	*   **Disclaimer: Prefixize uses the API of Jeffrey Way's (of Nettuts+) new service Prefixr which was just released today in its Alpha release so if there are any issues please report them on Github...and ideally Prefixr.com too**   
+	
+**TODO**
+
+* Give the bundle an MIT License and/or a BSD License
 
 ##Support & Questions
 
 If you have any questions you can [email me at ethankr@comcast.net](mailto:ethankr@comcast,net?subject=Simple-CSS4-Texmate-Bundle-Support)
 
+[Prefixr by Jeffrey Way](http://prefixr.com)
+
 ##Thanks & Credits
 
 This textmate bundle was made possible in large part by [CSS3 Please.com](http://css3please.com)
+
+[Prefixr by Jeffrey Way](http://prefixr.com)
 
 [@font-face cross-browser font generator](http://www.fontsquirrel.com/fontface/generator)
 
