@@ -1,5 +1,5 @@
 #Simple CSS3 Textmate Bundle
-##Making CSS3 "just work"...
+Making CSS3 "just work"...
 
 ##About
 
