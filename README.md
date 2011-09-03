@@ -78,15 +78,11 @@ The bundle only works when you are inside of a CSS file.
 *	Use CSS3 transitions with cross-browser compatibility **tran > tab > property to animate > tab > animation duration (without the 's') > tab > timing function**
 	*	*Example:* **tran > tab > color > tab > 0.3 > tab > ease-out** this would create a cross-browser CSS3 transition that transitions the color property over 0.3 seconds and uses the "ease-out" timing function
 	
-**CMD + SHIFT + P    (Prefixize)**
+**⌘ + SHIFT + P    (Prefixize)**
 
 * Prefixize *
 	*Usage: Select a single css declaration, an entire class, or your whole stylesheet then press CMD + SHIFT + P  and your css will automatically be prefixized. All the CSS3 browser prefixes like `-moz` and `-ms-` and `-webkit-`, even `-kthml` and `-o-` that all us designers need need to add to the new CSS3 properties like `border-radius` and such will automatically be added to your css file. Now you can you use only the W3C recommended syntax for CSS3 properties like `border-radius` and `linear-gradient` and `transition`. To prefixize your entire stylesheet and add cross-browser support for your css!
-	*   **Disclaimer: Prefixize uses the API of Jeffrey Way's (of Nettuts+) new service Prefixr which was just released today in its Alpha release so if there are any issues please report them on Github...and ideally Prefixr.com too**   
-	
-**TODO**
-
-* Give the bundle an MIT License and/or a BSD License
+	*   **Disclaimer: Prefixize uses the API of Jeffrey Way's (of Nettuts+) new service Prefixr which was just released today in its Alpha release so if there are any issues please report them on Github...and ideally Prefixr.com too** 
 
 ##Support & Questions
 
@@ -103,3 +99,31 @@ This textmate bundle was made possible in large part by [CSS3 Please.com](http:/
 [@font-face cross-browser font generator](http://www.fontsquirrel.com/fontface/generator)
 
 [Decompress .dfont files on the Mac](http://peter.upfold.org.uk/projects/dfontsplitter)
+
+##License
+
+SIMPLE CSS3 TEXTMATE BUNDLE IS DOUBLE LICENSED UNDER THE MIT LICENSE AND GPL LICENSE
+
+MIT LICENSE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+GPL LICENSE
+
+A TextMate Bundle that adds cross-browser support for CSS3, enjoy!
+    Copyright (C) 2011  Ethan Kramer
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
