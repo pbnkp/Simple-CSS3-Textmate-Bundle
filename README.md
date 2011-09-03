@@ -78,7 +78,7 @@ The bundle only works when you are inside of a CSS file.
 *	Use CSS3 transitions with cross-browser compatibility **tran > tab > property to animate > tab > animation duration (without the 's') > tab > timing function**
 	*	*Example:* **tran > tab > color > tab > 0.3 > tab > ease-out** this would create a cross-browser CSS3 transition that transitions the color property over 0.3 seconds and uses the "ease-out" timing function
 	
-**⌘ + SHIFT + P    (Prefixize)**
+**⌘ + ⇧ + P    (Prefixize)**
 
 * Prefixize *
 	*Usage: Select a single css declaration, an entire class, or your whole stylesheet then press CMD + SHIFT + P  and your css will automatically be prefixized. All the CSS3 browser prefixes like `-moz` and `-ms-` and `-webkit-`, even `-kthml` and `-o-` that all us designers need need to add to the new CSS3 properties like `border-radius` and such will automatically be added to your css file. Now you can you use only the W3C recommended syntax for CSS3 properties like `border-radius` and `linear-gradient` and `transition`. To prefixize your entire stylesheet and add cross-browser support for your css!
