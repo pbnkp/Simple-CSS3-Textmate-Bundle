@@ -81,7 +81,7 @@ The bundle only works when you are inside of a CSS file.
 **⌘ + ⇧ + P    (Prefixize)**
 
 * Prefixize *
-	*Usage: Select a single css declaration, an entire class, or your whole stylesheet then press CMD + SHIFT + P  and your css will automatically be prefixized. All the CSS3 browser prefixes like `-moz` and `-ms-` and `-webkit-`, even `-kthml` and `-o-` that all us designers need need to add to the new CSS3 properties like `border-radius` and such will automatically be added to your css file. Now you can you use only the W3C recommended syntax for CSS3 properties like `border-radius` and `linear-gradient` and `transition`. To prefixize your entire stylesheet and add cross-browser support for your css!
+	*Usage: Select a single css declaration, an entire class, or your whole stylesheet then press  ⌘ + ⇧ + P and your css will automatically be prefixized. All the CSS3 browser prefixes like `-moz` and `-ms-` and `-webkit-`, even `-kthml` and `-o-` that all us designers need need to add to the new CSS3 properties like `border-radius` and such will automatically be added to your css file. Now you can you use only the W3C recommended syntax for CSS3 properties like `border-radius` and `linear-gradient` and `transition`. To prefixize your entire stylesheet and add cross-browser support for your css!
 	*   **Disclaimer: Prefixize uses the API of Jeffrey Way's (of Nettuts+) new service Prefixr which was just released today in its Alpha release so if there are any issues please report them on Github...and ideally Prefixr.com too** 
 
 ##Support & Questions
