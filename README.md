@@ -65,9 +65,9 @@ The bundle only works when you are inside of a CSS file.
 **shad > tab**
 
 *	Text-shadow **shad > 1 > Amount of pixels for x-offsett > tab > Amount of pixels for y-offset > tab > Amount of pixels for shadow blur (0 for no sharp shadow with no blur) > tab > color of shadow in hexadecimal (without the # sign)**
-	*	*Example:*  **shad > 1 > 2 > tab > 2 > tab > 0 > tab > ffffff** that would add a `text-shadow` with a x-offset of 2px, a y-offset of 2px, a blur of 0px and a shadow color ffffff (or white)	
+	*	*Example:*  **shad > 1 > 2 > tab > 2 > tab > 0 > tab > ffffff** that would add a `box-shadow` with a x-offset of 2px, a y-offset of 2px, a blur of 0px and a shadow color ffffff (or white)	
 *	Box-shadow **shad > 2 > Amount of pixels for x-offsett > tab > Amount of pixels for y-offset > tab > Amount of pixels for shadow blur (0 for no sharp shadow with no blur) > tab > color of shadow in hexadecimal (without the # sign)**
-	*	*Example:*  **shad > 2 > 2 > tab > 2 > tab > 0 > tab > ffffff** that would add a `text-shadow` with a x-offset of 2px, a y-offset of 2px, a blur of 0px and a shadow color ffffff (or white)
+	*	*Example:*  **shad > 2 > 2 > tab > 2 > tab > 0 > tab > ffffff** that would add a `box-shadow` with a x-offset of 2px, a y-offset of 2px, a blur of 0px and a shadow color ffffff (or white)
 
 **grad > tab**
 
