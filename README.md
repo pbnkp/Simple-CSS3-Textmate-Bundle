@@ -90,6 +90,15 @@ If you have any questions you can [email me at ethankr@comcast.net](mailto:ethan
 
 [Prefixr by Jeffrey Way](http://prefixr.com)
 
+Bug Reporter
+------------
+
+Please report any bugs here on Github. 
+
+[http://github.com/ekdevdes/Simple-CSS3-Textmate-Bundle/issues](http://github.com/ekdevdes/Storagify/issues)
+
+Thank you.
+
 ##Thanks & Credits
 
 This textmate bundle was made possible in large part by [CSS3 Please.com](http://css3please.com)
